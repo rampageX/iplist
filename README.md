@@ -22,7 +22,7 @@
 
 ### 国家 IP 段
 
-采用 [ISO_3166-1](https://zh.wikipedia.org/wiki/ISO_3166-1%E4%BA%8C%E4%BD%8D%E5%AD%97%E6%AF%8D%E4%BB%A3%E7%A0%81) 进行分类
+采用 [ISO_3166-1](https://zh.wikipedia.org/wiki/ISO_3166-1%E4%BA%8C%E4%BD%8D%E5%AD%97%E6%AF%8D%E4%BB%A3) 进行分类
 
 |Country|CIDR|
 |---|---|
@@ -79,6 +79,7 @@
 
 |ISP|CIDR|
 |---|---|
+|百度云|https://metowolf.github.io/iplist/data/isp/baidu.txt|
 |阿里云|https://metowolf.github.io/iplist/data/isp/aliyun.txt|
 |腾讯云|https://metowolf.github.io/iplist/data/isp/tencent.txt|
 |字节跳动|https://metowolf.github.io/iplist/data/isp/bytedance.txt|
