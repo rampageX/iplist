@@ -12,6 +12,7 @@ const ISP_MAP = {
   'cernet.edu.cn': 'cernet', // 中国教育网
   'cstnet.cn': 'cstnet', // 中国科技网
   // 常见云服务商
+  'baidu.com': 'baidu', // 百度云
   'aliyun.com': 'aliyun', // 阿里云
   'tencent.com': 'tencent', // 腾讯云
   'cloudflare.com': 'cloudflare',
