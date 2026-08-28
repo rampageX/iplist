@@ -22,6 +22,8 @@ const ISP_MAP = {
   'volcengine.com': 'volcengine', // 火山引擎
   'cloud.google.com': 'googlecloud', // Google Cloud
   'digitalocean.com': 'digitalocean', // DigitalOcean
+  'ksyun.com': 'ksyun', // 金山云
+  'ucloud.cn': 'ucloud', // UCloud
 }
 
 const plugin = (through2, file, cb) => {

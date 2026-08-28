@@ -84,6 +84,8 @@
 |腾讯云|https://metowolf.github.io/iplist/data/isp/tencent.txt|
 |字节跳动|https://metowolf.github.io/iplist/data/isp/bytedance.txt|
 |华为云|https://metowolf.github.io/iplist/data/isp/huawei.txt|
+|金山云|https://metowolf.github.io/iplist/data/isp/ksyun.txt|
+|UCloud|https://metowolf.github.io/iplist/data/isp/ucloud.txt|
 |Google Cloud|https://metowolf.github.io/iplist/data/isp/googlecloud.txt|
 
 ## 数据来源
